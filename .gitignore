@@ -1,0 +1,17 @@
+# Python (for later script-based exercises)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Redis dump (if ever mounted to host)
+dump.rdb
